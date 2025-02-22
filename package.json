@@ -1,0 +1,22 @@
+{
+  "name": "newsapplication",
+  "version": "1.0.0",
+  "description": "Web Application that provides realtime news information ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aditya01063/newsApplication.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "ak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aditya01063/newsApplication/issues"
+  },
+  "homepage": "https://github.com/aditya01063/newsApplication#readme"
+}
